@@ -1,0 +1,15 @@
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.exe
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.deps.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.runtimeconfig.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.AssemblyInfoInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.AssemblyInfo.cs
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.sourcelink.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\refint\Condicionais.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.genruntimeconfig.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\ref\Condicionais.dll
