@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\Exercicio07.csproj": {}
+    "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\Exercicio07.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\Exercicio07.csproj": {
+    "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\Exercicio07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\Exercicio07.csproj",
+        "projectUniqueName": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\Exercicio07.csproj",
         "projectName": "Exercicio07",
-        "projectPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\Exercicio07.csproj",
+        "projectPath": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\Exercicio07.csproj",
         "packagesPath": "C:\\Users\\Ruan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\obj\\",
+        "outputPath": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\Vetores.csproj": {}
+    "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\Vetores.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\Vetores.csproj": {
+    "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\Vetores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\Vetores.csproj",
+        "projectUniqueName": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\Vetores.csproj",
         "projectName": "Vetores",
-        "projectPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\Vetores.csproj",
+        "projectPath": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\Vetores.csproj",
         "packagesPath": "C:\\Users\\Ruan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\obj\\",
+        "outputPath": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Vetores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
