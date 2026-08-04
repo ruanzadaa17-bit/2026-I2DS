@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj": {}
+    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio04\\Exercicio04.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj": {
+    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio04\\Exercicio04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj",
-        "projectName": "Funcao",
-        "projectPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj",
+        "projectUniqueName": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio04\\Exercicio04.csproj",
+        "projectName": "Exercicio04",
+        "projectPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio04\\Exercicio04.csproj",
         "packagesPath": "C:\\Users\\Ruan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Funcao\\obj\\",
+        "outputPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-03\\Exercicios\\Exercicio04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
