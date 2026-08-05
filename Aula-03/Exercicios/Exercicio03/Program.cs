@@ -15,7 +15,7 @@ internal class Program
         Console.Write("Digite sua primeira nota: ");
         nota1 = int.Parse(Console.ReadLine());
 
-        Console.Write("Digite sua segunda nota: ");
+        Console.Write("Digite sua segunda nota: "); 
         nota2 = int.Parse(Console.ReadLine());
 
         Console.Write("Digite sua terceira nota: ");
@@ -32,7 +32,7 @@ internal class Program
             Console.WriteLine("Aluno: " + nome);
             Console.WriteLine("Situação: Recuperação com a média de " + media);
         }else{
- Console.WriteLine("Aluno: " + nome);
+            Console.WriteLine("Aluno: " + nome);
             Console.WriteLine("Situação: Reprovado com a média de " + media);
         }
     }
