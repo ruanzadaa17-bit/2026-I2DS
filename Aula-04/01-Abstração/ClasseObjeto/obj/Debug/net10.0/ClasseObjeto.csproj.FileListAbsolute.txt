@@ -1,0 +1,15 @@
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.exe
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.deps.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.runtimeconfig.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.AssemblyInfoInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.AssemblyInfo.cs
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.sourcelink.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\refint\ClasseObjeto.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.genruntimeconfig.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-04\01-Abstração\ClasseObjeto\obj\Debug\net10.0\ref\ClasseObjeto.dll
