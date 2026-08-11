@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\heranca.csproj": {}
+    "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\heranca.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\heranca.csproj": {
+    "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\heranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\heranca.csproj",
+        "projectUniqueName": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\heranca.csproj",
         "projectName": "heranca",
-        "projectPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\heranca.csproj",
+        "projectPath": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\heranca.csproj",
         "packagesPath": "C:\\Users\\Ruan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\obj\\",
+        "outputPath": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-04\\02-Herança\\heranca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

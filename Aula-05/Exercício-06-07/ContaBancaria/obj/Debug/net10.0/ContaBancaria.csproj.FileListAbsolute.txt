@@ -1,0 +1,5 @@
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-06-07\ContaBancaria\obj\Debug\net10.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-06-07\ContaBancaria\obj\Debug\net10.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-06-07\ContaBancaria\obj\Debug\net10.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-06-07\ContaBancaria\obj\Debug\net10.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-06-07\ContaBancaria\obj\Debug\net10.0\ContaBancaria.sourcelink.json

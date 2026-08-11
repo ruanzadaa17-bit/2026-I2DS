@@ -1,0 +1,15 @@
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\bin\Debug\net10.0\Pessoa.exe
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\bin\Debug\net10.0\Pessoa.deps.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\bin\Debug\net10.0\Pessoa.runtimeconfig.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\bin\Debug\net10.0\Pessoa.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\bin\Debug\net10.0\Pessoa.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\Pessoa.AssemblyInfo.cs
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\Pessoa.sourcelink.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\Pessoa.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\refint\Pessoa.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\Pessoa.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\Pessoa.genruntimeconfig.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-05\Exercício-05\Pessoa\obj\Debug\net10.0\ref\Pessoa.dll
