@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\Filas.csproj": {}
+    "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\Filas.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\Filas.csproj": {
+    "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\Filas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\Filas.csproj",
+        "projectUniqueName": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\Filas.csproj",
         "projectName": "Filas",
-        "projectPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\Filas.csproj",
+        "projectPath": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\Filas.csproj",
         "packagesPath": "C:\\Users\\Ruan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\obj\\",
+        "outputPath": "C:\\Users\\Ruan\\Documents\\2026-I2DS\\Aula-06\\Filas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

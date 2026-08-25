@@ -1,0 +1,15 @@
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\bin\Debug\net10.0\Exercício-04.exe
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\bin\Debug\net10.0\Exercício-04.deps.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\bin\Debug\net10.0\Exercício-04.runtimeconfig.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\bin\Debug\net10.0\Exercício-04.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\bin\Debug\net10.0\Exercício-04.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\Exercício-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\Exercício-04.AssemblyInfoInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\Exercício-04.AssemblyInfo.cs
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\Exercício-04.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\Exercício-04.sourcelink.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\Exercício-04.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\refint\Exercício-04.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\Exercício-04.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\Exercício-04.genruntimeconfig.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-04\obj\Debug\net10.0\ref\Exercício-04.dll

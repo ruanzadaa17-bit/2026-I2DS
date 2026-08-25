@@ -1,0 +1,15 @@
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\bin\Debug\net10.0\Exercício-03.exe
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\bin\Debug\net10.0\Exercício-03.deps.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\bin\Debug\net10.0\Exercício-03.runtimeconfig.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\bin\Debug\net10.0\Exercício-03.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\bin\Debug\net10.0\Exercício-03.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\Exercício-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\Exercício-03.AssemblyInfoInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\Exercício-03.AssemblyInfo.cs
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\Exercício-03.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\Exercício-03.sourcelink.json
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\Exercício-03.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\refint\Exercício-03.dll
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\Exercício-03.pdb
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\Exercício-03.genruntimeconfig.cache
+C:\Users\Ruan\Documents\2026-I2DS\Aula-07\Atividades\Exercício-03\obj\Debug\net10.0\ref\Exercício-03.dll
